@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# TensorFlow or Keras logs
+logs/
+
+# Environment folders
+venv/
+.env/
+
+# OS-related files
+.DS_Store
+Thumbs.db
